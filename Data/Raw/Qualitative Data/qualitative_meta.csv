@@ -1,0 +1,15 @@
+Reference,Region,Site Name,latitude,longitude,id,archive,proxy,season,Used,Age model,Oldest Age,Youngest Age,Number of Ages,Ages/kyr
+Bennike 2002,North Greenland,Washington Land,80.4,-64,Bennike2002,LakeSediment,macrofossil,summer,1,1,9.3,0.1,46,5
+Christiansen et al. 2002,Northeast Greenland,Zackenberg Delta,74.5,-20.5,Christiansen2002,LakeSediment,macrofossil,summer,1,1,9.5,2.5,18,2.57
+Wagner et al. 2008,Northeast Greenland,Hjort S¿,76.333,-18.808,Wagner2008,LakeSediment,macrofossil,summer,1,1,9.3,1.1,11,1.34
+Schmidt et al. 2011,Norheast Greeland,Hjort Lake,76.43333333,-18.76666667,Schmidt2011_Hjort,LakeSediment,chironomid,summer,1,1,9.8,0.1,18,1.96
+Schmidt et al. 2011,Norheast Greeland,Duck Lake,76.41666667,-18.75,Schmidt2011_Duck,LakeSediment,chironomid,summer,1,1,9.8,0.5,18,1.96
+Bennike et al. 2008,Northwest Greenland,Nordvest¿,76.73763333,-73.20826667,Bennike2008,LakeSediment,macrofossil,summer,1,1,9.3,5.1,15,3.57
+Bennike and Weidick 2001,Northeast Greenland,Nioghalvfjerdsfjorden,79,-20.5,BennikeWeidick2001,LakeSediment,macrofossil,summer,1,1,9.7,0.1,77,8.02
+Wagner et al. 2000,East Greenland,Basalts¿,72.719,-22.225,Wagner2000,LakeSediment,macrofossil,summer,1,1,9.6,0.1,14,1.47
+Wagner and Bennike 2015,North Greenland,Lille Sneha S¿,80.01596667,-22.65023333,WagnerBennike2015,LakeSediment,macrofossil,summer,1,1,7.3,3.2,9,2.2
+Bennike et al. 1999,Northeast Greenland,,70.83666667,-23.96,Bennike1999.Hochstetter,LakeSediment,macrofossil,summer,0,1,8.2,6.8,3,2.14
+Bennike et al. 1999,Northeast Greenland,Jameson Land,71.2,-23.5,Bennike1999.JamesonLand,LakeSediment,macrofossil,summer,0,1,9.5,7.8,5,2.94
+Bennike and Wagner 2012,Northeast Greenland,Germania Havn S¿,74.54781667,-18.8595,BennikeWagner2012,LakeSediment,macrofossil,summer,0,1,8.8,3.1,3,0.53
+Klug et al. 2009,Northeast Greenland,Store Koldewy/Duck Lake,76.41666667,-18.75,Klug2009,LakeSediment,macrofossil,summer,0,1,9,0.1,7,0.79
+Kelly and Bennike et al. 1992,Western and Northern Greenland,,81,-50,KellyBenike.1992,LakeSediment,macrofossil,summer,0,1,,,,

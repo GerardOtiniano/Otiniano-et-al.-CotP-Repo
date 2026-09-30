@@ -1,0 +1,34 @@
+Site name,Site ID,General location,Included in matrix in Fig. 4,lat,lon,Elevation (m asl),Source,proxy,Climate variable,variable,Citation,temp12k_file,file_name,age_name,value_name,error,Error_val
+Agassiz,1,High Canadian Arctic,yes,80.7,-73.1,1730,ice,d18O,annual air temp,Temperature,"Vinther et al., 2006, 2009",agassiz.Vinther.2009.lpd,Agassiz,age (cal yr BP).1,corrected d18O (permil) {core A84/A87},NaN,1
+HU91-039-008 PC,17,Baffin Bay,yes,77.27,-74.33,_663,marine,dinocyst,summer sea surface temp,Temperature,"Levac et al., 2001, de Vernal et al., 2013",HU91-039-008.Levac.2001.lpd,HU91-039-008PC,age (cal yr BP),Summer SST (deg C),NaN,1.5
+Camp Century,7,Greenland Ice Sheet,yes,77.17,-61.13,1890,ice,d18O,annual air temp,Temperature,"Vinther et al., 2009",,century,age (cal yr BP),d18O (permil),NaN,2
+Hjort Lake,14,E Greenland,yes,76.43,-18.77,114,lake,chironomid,summer air temp,Temperature,"Schmidt et al., 2011",Hjort.Schmidt.2011.lpd,Hjort Lake,age (cal yr BP),CCA 1,NaN,0.2
+Devon Ice Cap,9,Eastern Canadian Arctic,yes,75.32,-82.5,,ice,d18O,annual air temp,Temperature,"Fisher et al., 1983, Fisher unpublished data",DevonIslandGlacier.McAndrews.1984.lpd,Devon Ice Cap,age (B2K),d18O (permil),NaN,1.6
+BC01,4,Western Canadian Arctic,yes,75.18,-111.92,225,lake,OM,summer air temp,Temperature,"Peros et al., 2010",BC01Lake.Peros.2010.lpd,BC01,age (cal yr BP),temperature,NaN,0.5
+NGRIP,25,Greenland Ice Sheet,yes,75.1,-42.32,2917,ice,d18O,annual air temp,Temperature,"Vinther et al., 2006, NorthGrip Project Members et al., 2004",NGRIP.NGRIP.2004.lpd,NGRIP,age (yr BP),d18O (permil),NaN,2.5
+2004-804-009,21,Lancaster Sound,yes,74.19,-81.2,-781,marine,dinocyst,summer sea surface temp,Temperature,"Ledu et al., 2010a, Ledu et al., 2010b, de Vernal et al., 2013",2004-804-009-PC.Ledu.2008.lpd,LS009,age (cal yr BP),Summer SST (deg C),NaN,1.5
+GISP2,12,Greenland Ice Sheet,yes,72.58,-38.46,3216,ice,d18O,annual air temp,Temperature,"Alley, 2000",Alley.GISP2.2000.lpd,GISP2,age (cal yr BP).1,Temperature (deg C),NaN,2
+GRIP,13,Greenland Ice Sheet,yes,72.01,-37.63,3230,ice,d18O,annual air temp,Temperature,"Vinther et al., 2006",GRIP.Vinther.2006.lpd,GRIP,age (cal yr BP),d18O (permil),NaN,3
+KR02,42,Western Canadian Arctic,yes,71.34,-113.78,299,lake,pollen,July air temp,Temperature,Peros and Gajewski 2008,KR02.Peros.2008.lpd,KR02,Age (cal yr BP),Temperature (deg C),NaN,1.2
+Renland,29,E Greenland,yes,71.3,-26.7,2350,ice,d18O,annual air temp,Temperature,"Vinther et al., 2009",Renland.Johnsen.1992.lpd,Renland,age (cal yr BP),d18O (permil),NaN,1
+JR01,40,Central Canadian Arctic,yes,69.9,-95.07,120,lake,pollen,July air temp,Temperature,Zabenskie and Gajewski 2007,JR01.Fortin.2017.lpd,JR01,Age (cal yr BP),Temperature (deg C),NaN,1.2
+North Lake,26,W Greenland,yes,69.24,-50.03,190,lake,OM,July air temp,Temperature,"Axford et al., 2013",NorthLake.Axford.2013.lpd,north,Age (cal yr BP).2,Temperature (deg C),NaN,1.6
+2005-804-006,36,Victoria Strait,yes,68.99,-106.57,-118,marine,dinocyst,summer sea surface temp,Temperature,"Ledu et al., 2010a, Ledu et al., 2010b, de Vernal et al., 2013",2005-804-006.Ledu.2010.lpd,2005_804_006,Age (cal yr BP),Summer SST (deg C),NaN,1.5
+SP02,31,Central Canadian Arctic,yes,68.55,-83.29,220,lake,OM,summer air temp,Temperature,Adams and Finkelstein 2010,SP02.Adams.2010.lpd,SP02,age (cal yr BP),OM (%),NaN,1
+Penny Ice Cap,27,Baffin Island,yes,67.25,-66.75,1900,ice,d18O,annual air temp,Temperature,"Fisher et al., 1998",Penny.Fisher.1998.lpd,Penny,age (cal yr BP),d18O (permil),NaN,2
+SFL-1,30,W Greenland,yes,67.08,-50.28,247,lake,OM,summer air temp,Temperature,"Willemse and Törnqvist, 1999",Sfl4-1.Willemse.1999.lpd,SFL4-1,age (cal yr BP),OM (%),NaN,2.7
+Braya Sø,6,W Greenland,yes,67,-50.7,170,lake,alkenone,summer lake surface temp,Temperature,"D'andrea et al., 2011",BrayaSo.DAndrea.2011.lpd,Braya,age (cal yr BP),Uk37,NaN,1.3
+Akvaqiak Lake,2,Baffin Island,yes,66.78,-63.95,17,lake,pollen,July air temp,Temperature,Fréchette and de Vernal 2009,Akvaqiak.Frechette.2009.lpd,Akvaquak,Age (cal yr BP),Temperature (deg C),Temperature error (2s),1.5
+NAUJG1-1,24,W Greenland,yes,66.67,-51.97,300,lake,mineral,summer air temp,Temperature,"Willemse and Törnqvist, 1999",Naujg1.Willemse.1999.lpd,NAUJG1,age (cal yr BP),ROI (%),NaN,10
+Iglutalik Lake,19,Baffin Island,yes,66.14,-66.08,90,lake,pollen,July air temp,Temperature,"Kerwin et al., 2004; Davis, 1980",Iglutalik.Kerwin.2004.lpd,Iglutalik,Age (cal BP),Temperature (deg C),NaN,1.2
+Dye-3,10,Greenland Ice Sheet,yes,65.18,-43.82,2620,ice,d18O,annual air temp,Temperature,"Vinther et al., 2006",DYE3.Vinther.2006.lpd,Dye3,age (cal yr BP),d18O (permil),NaN,2
+Jake Lake,20,Baffin Island,yes,63.67,-65.15,300,lake,pollen,July air temp,Temperature,"Kerwin et al., 2004, Miller et al., 2005",Jake.Kerwin.2005.lpd,jake,Age (cal yr BP),Temperature (C),Temperature error (deg C),1.2
+Ennadai Lake,39,Central Canadian Arctic,yes,61.17,-100.92,168,peat,pollen,summer air temp,Temperature,"Viau & Gajewski, 2009; Nichols, 1975",Ennadai-1.Nichols.1967.lpd,Ennadai Lake,age (cal yr BP),MTWA (deg C),NaN,1.2
+Igaliku Lake,18,S Greenland,no,61,-45.43,30,lake,pollen,summer air temp,Temperature,"Massa et al., 2012",Igaliku.Massa.2012.lpd,Igaliku,age (cal yr BP),Pollen (#/cm2/yr1 ),NaN,64
+Qipisarqo Lake,28,S Greenland,yes,61,-47.75,7,lake,pollen,July air temp,Temperature,"Fréchette and de Vernal, 2009, Kaplan et al., 2002",Qipisarqo.Frechette.2009.lpd,Qisirarqo,Age (cal yr BP),Temperature (deg C),Temperature error (2s),1.4
+S52/S53,44,Central Canadian Arctic,yes,59.89,-104.21,395,peat,d13C,July air temp,Temperature,"Tillman et al., 2010",s53s52.KaislahtiTillman.2010.lpd,S53_S52,age (cal yrs BP),Temperature (deg C),NaN,1.5
+Lake K2,41,N Québec,yes,58.73,-65.93,167,lake,chironomid,July air temp,Temperature,"Fallu et al., 2005",K2.Fallu.2005.lpd,K2,age (cal yr BP),Temperature (C),NaN,3
+LR01,43,N Québec,yes,58.58,-75.25,170,lake,pollen,summer air temp,Temperature,"Gajewski et al., 1993; Viau & Gajewski, 2009",LR01.Gajewski.1993.lpd,LR1,age (cal yr BP),MTWA (deg C),NaN,1.2
+HU84-030-021,15,Labrador Sea,yes,58.37,-57.51,_2853,marine,dinocyst,summer sea surface temp,Temperature,"de Vernal et al., 2001, 2013",HU84.deVernal.2013.lpd,HU84-030-021PC,age (cal yr BP),Summer SST (deg C),NaN,1.5
+HU90-013-017,16,Labrador Sea,yes,58.21,-48.37,_3380,marine,dinocyst,summer sea surface temp,Temperature,"de Vernal et al., 2013",HU90.deVernal.2013.lpd,HU90-013,age (cal yr BP),Summer SST (deg C),NaN,1.5
+MD99-2227,22,Labrador Sea,yes,58.21,-48.37,-3460,marine,dinocyst,summer sea surface temp,Temperature,"deVernal and Hillaire-Marcel, 2006; de Vernal et al., 2013",MD99-2227.deVernal.2013.lpd,MD99-2227,age (cal yr BP),Summer SST (deg C),NaN,1.5
